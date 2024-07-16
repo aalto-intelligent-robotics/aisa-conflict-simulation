@@ -1,0 +1,1 @@
+docker remove wasp_ros

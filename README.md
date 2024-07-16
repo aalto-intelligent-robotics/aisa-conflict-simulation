@@ -13,6 +13,14 @@ The directory *conflict-simulation-tool* contains the code of the Unity-based to
 To run the simulation, load the project in Unity and open the scene *Assets/RCK2.3/Scenes/Simple*.
 
 
+## Lane Detection
+
+Simple control of the vehicle using lane detection has been implemented. 
+It is based on [Algorithms for Automated Driving](https://github.com/thomasfermi/Algorithms-for-Automated-Driving).
+The code for it can be accesssed in the folder *lane-detection*.
+
+The file *lane-detection/README.md* contains instructions of how to connect the Unity simulation with the lane detection backend using ROS.
+
 ## Citation
 
 ```
